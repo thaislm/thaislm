@@ -1,7 +1,11 @@
-## Hi, I'm Thais Melo
+## Hello, my name is Thais Melo
 
+
+Welcome to my GitHub! Feel free to explore my projects.
+## About me
+- 🎓 Student in Systems Analysis and Development.
 - 🌱 I’m currently learning JavaScript,HTML e CSS
-- 😄 Pronouns: she\her
+
   
 <div style="display: inline_block"> <br>
 <img align="center" alt="Thais-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
