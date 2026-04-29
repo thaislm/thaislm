@@ -9,10 +9,6 @@ Sou estudante de Desenvolvimento de Sistemas focada em Análise de Dados
 - Power BI
 - Análise de Dados
 
-📊 Projetos em destaque
-- Análise de churn → link
-- Previsão de comportamento → link
-
 📫 Contato
 LinkedIn
 
